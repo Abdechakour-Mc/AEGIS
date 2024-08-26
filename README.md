@@ -93,4 +93,4 @@ To deploy and run the model:
 
 ## Contact
 
-For any questions or feedback, please reach out to [Abdechakour Mec](mailto:abdechakourmechri@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mechriabdechakour/).
+For any questions or feedback, please reach out to [Abdechakour Mc](mailto:abdechakourmechri@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mechriabdechakour/).

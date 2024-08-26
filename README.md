@@ -32,7 +32,7 @@ The dataset used in this project was carefully gathered from three different sou
 
 ## Model Architecture
 
-![Line-level Detection Example](images/aegis.png)
+![Line-level Detection Example](Images/aegis.png)
 
 AEGIS is a multi-stage neural network that combines transformers and CNNs to detect vulnerabilities in Python code with high accuracy.
 
@@ -77,11 +77,14 @@ AEGIS achieves fine-grained vulnerability detection and offers robust protection
 
 Below is an example of line-level vulnerability detection performed by AEGIS:
 
-![Line-level Detection Example](images/line_level_example.png)
+![Line-level Detection Example](Images/line_level_example.png)
 
 ## Deployment
 
 We deployed AEGIS using **Gradio**, a simple and interactive interface for running machine learning models in real-time. Gradio allows users to upload their Python code and receive immediate feedback on any detected vulnerabilities.
+
+![An Example of User Interaction with Our UI](Images/ui_eg.png)
+
 
 To deploy and run the model:
 1. Clone the repository.
